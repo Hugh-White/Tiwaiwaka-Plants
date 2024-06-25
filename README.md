@@ -1,6 +1,14 @@
 <h1>Tiwaiwaka Plants - Interactive Plant Collection</h1>
 
+<h2>Code</h2>
+
+<h3 align="center">
+  
+  [Click here to view the code & repo](https://github.com/joel-mainey/BCA-Maui-App/tree/master)
+  
+</h3>
 <h2>Description</h2>
+
 Tiwaiwaka plants is a mobile app that showcases the bio-diversity at Tiwaiwaka to educate on-site visitors, by way of an interactive plant collection. Users are able to navigate through a list of plants cards with images and plant names.<br/><br/>
 When a plant is selected, a detailed view of that plant comes up, with a large image and plant details below. A show on map button will open the devices native maps app and pinpoint the location of the plant, so users can easily find them on-location in real life.<br/><br/>
 The Find Closest Plant button checks the users location against the plant data, and displays a message telling them which plant they are closest to on the map, allowing for fun plant finding in real life.<br/><br/>
