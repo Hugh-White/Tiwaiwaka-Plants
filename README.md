@@ -14,9 +14,15 @@ When a plant is selected, a detailed view of that plant comes up, with a large i
 The Find Closest Plant button checks the users location against the plant data, and displays a message telling them which plant they are closest to on the map, allowing for fun plant finding in real life.<br/><br/>
 The app is currently on the Google Play Store, you can find it below: <br/><br/>
 
+<h3 align="center">
 
-[Tiwaiwaka App on Google Play Store](https://play.google.com/store/apps/details?id=com.companyname.firstmauiapp&hl=en)<br/>
+[Click Here to View in the Google Play Store](https://play.google.com/store/apps/details?id=com.companyname.firstmauiapp&hl=en)<br/>
+
+
+
 <img src="https://i.imgur.com/ZeyI0dr.jpeg" alt="Tiwaiwaka App Store" width="50%">
+
+</h3>
 
 <br />
 
